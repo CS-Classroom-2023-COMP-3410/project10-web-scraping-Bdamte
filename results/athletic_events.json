@@ -1,0 +1,105 @@
+{
+    "events": [
+      {
+        "duTeam": "Men's Lacrosse",
+        "opponent": "Marist",
+        "date": "2/28/2025"
+      },
+      {
+        "duTeam": "Men's Ice Hockey",
+        "opponent": "St. Cloud State",
+        "date": "2/28/2025"
+      },
+      {
+        "duTeam": "Women's Basketball",
+        "opponent": "South Dakota",
+        "date": "2/28/2025"
+      },
+      {
+        "duTeam": "Women's Lacrosse",
+        "opponent": "#9 Maryland",
+        "date": "3/1/2025"
+      },
+      {
+        "duTeam": "Men's Basketball",
+        "opponent": "South Dakota State",
+        "date": "3/1/2025"
+      },
+      {
+        "duTeam": "Women's Tennis",
+        "opponent": "Kansas City",
+        "date": "3/1/2025"
+      },
+      {
+        "duTeam": "Men's Ice Hockey",
+        "opponent": "St. Cloud State",
+        "date": "3/1/2025"
+      },
+      {
+        "duTeam": "Women's Tennis",
+        "opponent": "Omaha",
+        "date": "3/2/2025"
+      },
+      {
+        "duTeam": "Men's Tennis",
+        "opponent": "#56 Utah",
+        "date": "3/2/2025"
+      },
+      {
+        "duTeam": "Men's Lacrosse",
+        "opponent": "Quinnipiac",
+        "date": "3/2/2025"
+      },
+      {
+        "duTeam": "Men's Soccer",
+        "opponent": "Colorado Rapids II",
+        "date": "3/2/2025"
+      },
+      {
+        "duTeam": "Women's Golf",
+        "opponent": "Round 1/2",
+        "date": "3/2/2025"
+      },
+      {
+        "duTeam": "Women's Golf",
+        "opponent": "Round 3",
+        "date": "3/3/2025"
+      },
+      {
+        "duTeam": "Skiing",
+        "opponent": "Giant Slalom",
+        "date": "3/4/2025"
+      },
+      {
+        "duTeam": "Women's Lacrosse",
+        "opponent": "Michigan",
+        "date": "3/5/2025"
+      },
+      {
+        "duTeam": "Women's Basketball",
+        "opponent": "#8 Omaha",
+        "date": "3/5/2025"
+      },
+      {
+        "duTeam": "Skiing",
+        "opponent": "7.5K Classic",
+        "date": "3/5/2025"
+      },
+      {
+        "duTeam": "Women's Basketball",
+        "opponent": "#1 South Dakota State",
+        "date": "3/6/2025"
+      },
+      {
+        "duTeam": "Men's Basketball",
+        "opponent": "#2 St. Thomas",
+        "date": "3/6/2025"
+      },
+      {
+        "duTeam": "Skiing",
+        "opponent": "Slalom",
+        "date": "3/6/2025"
+      }
+    ]
+  }
+  
